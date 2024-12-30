@@ -1,0 +1,2 @@
+io.confluent.connect.jdbc.dialect.GenericDatabaseDialect$Provider
+io.confluent.connect.jdbc.dialect.OracleDatabaseDialect$Provider
